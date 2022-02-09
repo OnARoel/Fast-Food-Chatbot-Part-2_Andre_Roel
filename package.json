@@ -25,8 +25,13 @@
   },
   "homepage": "https://github.com/rhildred/es6test#readme",
   "dependencies": {
+    "dotenv": "^16.0.0",
     "engine.io": "*",
     "express": "*",
+    "grep": "^0.1.0",
+    "json-stringify": "^1.0.0",
+    "lsof": "^0.1.0",
+    "nodemon": "^2.0.15",
     "socket.io": "*",
     "twilio": "*",
     "underscore": "*"
